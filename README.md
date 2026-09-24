@@ -1,15 +1,3 @@
-# Adventure Works Sales & Customer Analytics
-
-## 📌 Project Overview
-
-An interactive Power BI business intelligence project analyzing
-Adventure Works sales, product, customer and geographic data.
-
-The project uses multiple analytical dashboards and Power BI
-features to explore revenue, profit, orders, returns, customers,
-products and business performance.
-
----
 
 # Adventure Works Sales & Customer Analytics
 
