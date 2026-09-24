@@ -1,5 +1,42 @@
-# Adventure-Works-Analysis
-Power BI sales and business performance analysis using DAX, data modeling and interactive dashboards.
+# Adventure Works Sales & Customer Analytics
+
+## 📌 Project Overview
+
+An interactive Power BI business intelligence project analyzing
+Adventure Works sales, product, customer and geographic data.
+
+The project uses multiple analytical dashboards and Power BI
+features to explore revenue, profit, orders, returns, customers,
+products and business performance.
+
+---
+
+# Adventure Works Sales & Customer Analytics
+
+## 📌 Project Overview
+
+An interactive Power BI business intelligence project analyzing
+Adventure Works sales, product, customer and geographic data.
+
+The project uses multiple analytical dashboards and Power BI
+features to explore revenue, profit, orders, returns, customers,
+products and business performance.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this project was to transform business data into
+interactive analytical dashboards that provide insights into:
+
+- Overall revenue and profit performance
+- Order and return trends
+- Product and category performance
+- Customer behavior and segmentation
+- Geographic sales distribution
+- Product-level performance against targets
+- Factors influencing business metrics
+
 ## 📊 Dashboard Preview
 
 <img width="986" height="556" alt="DASHBOARD" src="https://github.com/user-attachments/assets/ecc4d137-16f3-4e39-a08a-71c9ff0ad067" />
@@ -20,4 +57,35 @@ Power BI sales and business performance analysis using DAX, data modeling and in
 
 <img width="976" height="544" alt="key influence" src="https://github.com/user-attachments/assets/55b34b00-717d-404c-82f2-76c8fb676852" />
 
+## 🛠️ Tools & Technologies
 
+| Category | Tools |
+|---|---|
+| Business Intelligence | Power BI |
+| Data Transformation | Power Query |
+| Data Analysis | DAX |
+| Data Modeling | Power BI |
+| Data Visualization | Power BI |
+| Advanced Analytics | Key Influencers, Decomposition Tree |
+| Geographic Analysis | Power BI Maps |
+
+---
+
+## 🔄 Analysis Workflow
+
+```text
+Adventure Works Data
+        ↓
+Data Cleaning & Transformation
+        ↓
+Data Modeling
+        ↓
+DAX Measures & Calculations
+        ↓
+KPI Development
+        ↓
+Interactive Visualizations
+        ↓
+Advanced Power BI Analytics
+        ↓
+Business Insights
